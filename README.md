@@ -9,8 +9,13 @@ The following are the features that I will analyze and visualize in the Medical 
 - Doctor visits
 - Total $ Charge
 
-  ## Vitamin D Levels
+## Vitamin D Levels
 ![vitd](https://github.com/farisassallami/Medical-Dataset-Analysis-and-Visualization/assets/111199631/77296854-f0b3-4d05-894b-24e664234d33)
+
+- 1. Is it Discrete or Continuous?
+continuous, because there is no gap in the bar plot
+
+
 
 ## Visualization Requirements
 For each feature, I will perform the following visualizations:
