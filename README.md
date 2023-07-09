@@ -18,6 +18,9 @@ continuous, because there is no gap in the bar plot
 - 2. Does it have a skew? If so, which direction (+/-)
 no skew, the data seems to be normally distributed
 
+- 3. What type of kurtosis does it display? (Mesokurtic, Leptokurtic, Platykurtic)
+the kurtosis displayed is mesokurtic since it is normally distributed
+
 
 
 
