@@ -15,6 +15,11 @@ The following are the features that I will analyze and visualize in the Medical 
 - 1. Is it Discrete or Continuous?
 continuous, because there is no gap in the bar plot
 
+- 2. Does it have a skew? If so, which direction (+/-)
+no skew, the data seems to be normally distributed
+
+
+
 
 
 ## Visualization Requirements
